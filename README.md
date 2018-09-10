@@ -1,2 +1,2 @@
 # google-vjezba
-Google vježba
+HTML i CSS vježba, kodiramo početnu stranicu google tražilice.
